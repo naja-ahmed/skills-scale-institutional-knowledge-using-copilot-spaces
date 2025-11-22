@@ -32,7 +32,16 @@ Quality assurance is deeply embedded at every stage of the project. Workflows ma
 
 ### Team & Roles
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of all project roles including Project Manager, Product Manager, Developers, QA/Testing, and Stakeholders, with responsibilities and communication patterns for each.
+- **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of all project roles including Project Manager, Product Manager, Developers, QA Lead, Change Manager, Agile Coach, Stakeholder Liaison, and Stakeholders, with responsibilities and communication patterns for each.
+
+### Onboarding Resources
+
+New to a specific role? These onboarding checklists will help you get started:
+
+- **[Change Manager Onboarding Checklist](onboarding-checklist-change-manager.md)** - 90-day onboarding plan for Change Managers
+- **[Agile Coach Onboarding Checklist](onboarding-checklist-agile-coach.md)** - 90-day onboarding plan for Agile Coaches
+- **[Stakeholder Liaison Onboarding Checklist](onboarding-checklist-stakeholder-liaison.md)** - 90-day onboarding plan for Stakeholder Liaisons
+- **[QA Lead Onboarding Checklist](onboarding-checklist-qa-lead.md)** - 90-day onboarding plan for QA Leads
 
 ---
 
